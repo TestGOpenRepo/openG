@@ -1,0 +1,17 @@
+date_tolerance_days: 3
+
+fuzzy_threshold: 80
+
+max_combination_size: 4
+
+reference_match_confidence: 100
+
+exact_match_confidence: 95
+
+date_match_confidence: 85
+
+one_to_many_confidence: 80
+
+many_to_one_confidence: 80
+
+fuzzy_confidence: 70
